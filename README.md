@@ -1,2 +1,1 @@
-# prueba
-para estudiar
+"# My First Repository" 
